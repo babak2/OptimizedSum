@@ -24,9 +24,15 @@ You can install OptimizedSum by following these steps:
 
 ## Program Requirement
 
-  C++ compiler (e.g., Visual Studio, g++, clang++)
+To use OptimizedSum, you need the following software and hardware requirements:
 
-  CMake (optional, for building with CMake)
+- C++ compiler (e.g., Visual Studio, g++, clang++)
+- CMake (optional, for building with CMake)
+- CUDA (Compute Unified Device Architecture) from NVIDIA installed, along with an NVIDIA GPU, if you plan to utilize GPU acceleration for certain calculations.
+
+Make sure you have CUDA from NVIDIA installed and properly configured with a compatible NVIDIA GPU if you intend to take advantage of GPU acceleration. 
+
+Users without an NVIDIA GPU may still use the CPU-based functionality of the program.
 
 ## Usage
 
@@ -36,7 +42,7 @@ To use OptimizedSum, follow these steps:
 
 2. Run the compiled executable from the command line.
 
-  `./OptimizedSum`
+    `./OptimizedSum`
 
 3. Follow the on-screen instructions to input numbers for summation.
 
