@@ -44,24 +44,25 @@ To use OptimizedSum, follow these steps:
 1. Compile the program as mentioned in the Installation section.
 
 2. Run the compiled executable from the command line.
-   ```./OptimizedSum   ```
+   
+   ``` ./OptimizedSum   ```
 
-3. Follow the on-screen instructions to input numbers for summation.
+4. Follow the on-screen instructions to input numbers for summation.
 
-4. The program will calculate the sum of the entered numbers using an optimized algorithm.
+5. The program will calculate the sum of the entered numbers using an optimized algorithm.
 
 
 ## Output Example
 
 Here's an example of the OptimizedSum output:
 
-
+<code style="background-color: #f0f0f0; padding: 10px; display: block;">
 CPU Sum: 494483662 - Time: 0.035 seconds
 CUDA Sum: 494483662 - Time: 0.021 seconds
 CPU Time: 0.035 seconds
 CUDA Time: 0.021 seconds
 Speedup: 1.66667x 
-
+</code>
 
 
 ## License
