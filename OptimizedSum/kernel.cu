@@ -2,7 +2,7 @@
 /*
 Program: OptimizedSum - Demonstrating CPU vs. CUDA Summation
 Author: Babak Mahdavi Ardestani
-Date: October 26, 2023
+Date: October 26, 2022
 */
 
 
